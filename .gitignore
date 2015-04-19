@@ -2,4 +2,4 @@
 !.gitignore
 !.vimrc
 !.vim
-
+!.installScript.sh
